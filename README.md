@@ -8,3 +8,4 @@ A service which allows to comment on a public issue which is only visible to a c
 - [ ] Some web UI
 - [ ] Authenticate with Github OAuth
 - [ ] Allow users from the same org read shared comments
+- [ ] Chrome-plugin which includes CommentHub into GitHub
